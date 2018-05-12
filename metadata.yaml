@@ -1,0 +1,30 @@
+_repo: Report-of-the-Chief-Librarian-for-the-Year-1924-25_25033
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: New Zealand. General Assembly Library
+    gutenberg_agent_id: '28355'
+    url: http://www.gutenberg.org/2009/agents/28355
+  editor:
+    agent_name: Wilson, Charles
+    gutenberg_agent_id: '28354'
+    url: http://www.gutenberg.org/2009/agents/28354
+description: ''
+gutenberg_bookshelf: New Zealand
+gutenberg_issued: '2008-04-10'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '25033'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'General Assembly Library -- Periodicals'
+- !lcc 'Z'
+- !lcsh 'Libraries -- New Zealand -- Periodicals'
+title: Report of the Chief Librarian for the Year 1924-25
+url: http://www.gutenberg.org/ebooks/25033
